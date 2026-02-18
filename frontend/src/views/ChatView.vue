@@ -96,7 +96,7 @@ onMounted(async () => {
 
 <template>
   <div v-if="!hasMessages" class="hero">
-    <div class="hero-title">下午好，有什么可以帮忙的？</div>
+    <div class="hero-title">石油工程RAG问答系统</div>
     <div class="hero-subtitle">上传教材、选择范围，然后开始提问（回答会带引用）</div>
 
     <NCard style="width: min(760px, 100%)">
