@@ -1,4 +1,4 @@
-# 石油工程教材 RAG 问答 Web 应用
+# 石油工程RAG 问答 Web 应用
 
 ![RAGweb界面](./images/web_interface.png)
 
