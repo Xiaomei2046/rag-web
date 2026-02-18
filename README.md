@@ -1,5 +1,6 @@
 # 石油工程教材 RAG 问答 Web 应用
 
+![RAGweb界面](./images/RAG web界面.png)
 技术栈：
 - 前端：Vue 3 + TypeScript + Vite + Naive UI
 - 后端：FastAPI + PostgreSQL（pgvector）+ LangChain/LangGraph（后续链路）
